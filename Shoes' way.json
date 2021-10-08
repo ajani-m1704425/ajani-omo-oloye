@@ -2,6 +2,6 @@
     "productimage":["images/images.jpeg","images/images.jpeg"],
     "productname":["name1","name2"],
     "inStock":[10,12],
-    "length":2
+    "lengths":2
 
 }
