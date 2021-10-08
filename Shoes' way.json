@@ -1,5 +1,6 @@
 {
-    "product1":{"productname":"name","productimage":"images/images.jpeg","inStock":12},
-    "product2":{"productname":"name","productimage":"images/images.jpeg","inStock":12}
+    "productimage":["images/images.jpeg","images/images.jpeg"],
+    "productname":["name1","name2"],
+    "inStock":[10,12]
 
 }
