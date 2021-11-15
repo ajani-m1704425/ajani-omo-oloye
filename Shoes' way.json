@@ -1,7 +1,10 @@
 {
-    "productimage":["images/images.jpeg","images/images.jpeg"],
-    "productname":["name1","name2"],
-    "inStock":[10,12],
-    "lengths":2
+    "productimage":["images/New folder/1.jpeg","images/New folder/2.jpeg","images/New folder/3.jpeg","images/New folder/4.jpeg","images/New folder/5.jpeg","images/New folder/6.jpeg",
+                   "images/New folder/7.jpeg","images/New folder/8.jpeg","images/New folder/9.jpeg","images/New folder/10.jpeg","images/New folder/11.jpeg","images/New folder/12.jpeg",
+                   "images/New folder/13.jpeg","images/New folder/14.jpeg","images/New folder/15.jpeg","images/New folder/16.jpeg","images/New folder/17.jpeg","images/New folder/18.jpeg",
+                   "images/New folder/19.jpeg"],
+    "productname":["name1","name2","name3","name4","name5","name6","name7","name8","name9","name10","name11","name12","name13","name14","name15","name16","name17","name18","name19"],
+    "inStock":[10,12,4,12,3,5,7,8,9,13,4,7,1,3,5,"out of stock",1,4,7],
+    "lengths":19
 
 }
